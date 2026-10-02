@@ -7,8 +7,8 @@ Visualize sepal dimensions, split examples 80/20 with `random_state=0`, and fit 
 ## Run locally
 
 ```bash
-git clone https://github.com/abiy8/OIBSIP_Task1-.git
-cd OIBSIP_Task1-
+git clone https://github.com/abiy8/iris-flower-classification.git
+cd iris-flower-classification
 python -m venv .venv
 # Activate .venv for your operating system.
 pip install jupyter pandas numpy matplotlib plotly scikit-learn
